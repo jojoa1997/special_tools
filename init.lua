@@ -31,4 +31,4 @@ minetest.register_craft({
 --Aliases
 minetest.register_alias("shears", "special_tools:shears")
 
-print("special_tools loaded! by jojoa1997")
+print("special_tools loaded! by jojoa1997 and Likwid H-Craft")
